@@ -38,9 +38,10 @@ It is a **product discovery and research system** — designed to produce reusab
 ## Getting started
 
 1. Read [docs/getting-started.md](docs/getting-started.md)
-2. Copy [templates/sprint-template.md](templates/sprint-template.md) into `companies/<company-slug>/`
-3. Capture sources in `artifacts/<company-slug>/`
-4. Track queued work in [backlog/](backlog/)
+2. Read [docs/ai-collaboration.md](docs/ai-collaboration.md) if using an AI assistant
+3. Copy [templates/sprint-template.md](templates/sprint-template.md) into `companies/<company-slug>/`
+4. Capture sources in `artifacts/<company-slug>/`
+5. Track queued work in [backlog/](backlog/)
 
 ## Principles
 
