@@ -5,7 +5,7 @@ Living file. v0.1 seed opportunities O001–O010. Status `exploratory` until mor
 | Field | Value |
 |-------|-------|
 | **Company slug** | `bridgit` |
-| **Last updated** | 2026-06-29 |
+| **Last updated** | 2026-06-29 (Session 02) |
 
 ## Index
 
@@ -21,8 +21,11 @@ Living file. v0.1 seed opportunities O001–O010. Status `exploratory` until mor
 | O008 | Assignment Communication Digest | PMs / field leaders | Medium | Low | High | exploratory |
 | O009 | Retention and Career Fit Signals | HR / Ops | Medium | Medium-high | Medium | exploratory |
 | O010 | Executive Workforce Health Report | COO / exec team | High | Low-medium | High | strengthened — gate closed |
+| O011 | Staffing Meeting Brief / Agent | Ops / Workforce planner | High | Medium | High | leading candidate — gate closed |
 
-**Seed recommendation:** Best first prototypes — **O001** (Staffing Meeting Brief) + **O002** (Scenario Explainer).
+**Leading candidate (Session 02):** **O011** — Staffing Meeting Brief / Agent (extends O001). See [strategy/prototype-interview-strategy.md](../strategy/prototype-interview-strategy.md).
+
+**Seed recommendation:** O001 + O002 remain valid research prototypes.
 
 ## Entries
 
@@ -135,9 +138,39 @@ Supports a lightweight **planning artifact** prototype lane (H009) — but execu
 
 **Do not build yet.** Next validation: what executives actually use after data leaves Bridgit.
 
+### O011 — Staffing Meeting Brief / Agent
+
+| Field | Value |
+|-------|-------|
+| **Confidence** | High |
+| **Estimated Impact** | High |
+| **Estimated Complexity** | Medium |
+| **Status** | leading candidate — **gate closed** |
+
+#### Opportunity
+
+Pre-meeting staffing brief with explainable recommendations, follow-up actions, and decision log — rules + cited LLM narrative on mock workforce data.
+
+#### Evidence
+
+| ID | Relevance |
+|----|-----------|
+| E011 | Meeting / Excel pain |
+| E010, E020, E021 | Spreadsheet + planning friction |
+| E005 | Smart Suggestions / AI direction |
+
+#### Related
+
+Extends O001. Session 02 strategy: [prototype-interview-strategy.md](../strategy/prototype-interview-strategy.md).
+
+#### Gate
+
+**Do not build yet.** Validate staffing meeting workflow; review Bridgit agent strategy content.
+
 ## Changelog
 
 | Date | Change |
 |------|--------|
 | 2026-06-28 | Populated O001–O010 from v0.1 seed |
 | 2026-06-29 | Session 01: strengthened O010; prototype gate remains closed |
+| 2026-06-29 | Session 02: added O011 as leading candidate; gate still closed |

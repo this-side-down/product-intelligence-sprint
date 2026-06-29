@@ -27,8 +27,9 @@ Canonical living files: [registers/](registers/). Folders `evidence/` and `hypot
 2. **Sprint intent** — [continuity/project-brief.md](continuity/project-brief.md)
 3. **Canonical seed** — [research/research-seed-v0.1.md](research/research-seed-v0.1.md) (verbatim v0.1; do not edit in place)
 4. **Atomic research** — `research/` subfolders (company, product, customers, strategy)
-5. **Living registers** — `registers/` (evidence, hypotheses, prototype opportunities)
-6. **Next work** — [backlog/research-backlog.md](backlog/research-backlog.md)
+5. **Strategy** — [strategy/prototype-interview-strategy.md](strategy/prototype-interview-strategy.md) (Session 02: prototype + interview)
+6. **Living registers** — `registers/`
+7. **Next work** — [backlog/research-backlog.md](backlog/research-backlog.md)
 
 ## Session workflow
 
