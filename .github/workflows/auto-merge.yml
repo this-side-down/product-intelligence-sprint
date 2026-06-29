@@ -24,9 +24,6 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Squash-merge pull request
-        uses: peter-evans/merge-pull-request-action@v4
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          pull-request-number: ${{ github.event.pull_request.number }}
-          merge-method: squash
-          delete-branch: true
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: gh pr merge "${{ github.event.pull_request.number }}" --squash --delete-branch --repo "${{ github.repository }}"
