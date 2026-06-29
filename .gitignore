@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Editor
+.idea/
+.vscode/
+*.swp
+*~
+
+# Environment
+.env
+.env.*
+
+# Local scratch (not part of the canonical record)
+.scratch/
