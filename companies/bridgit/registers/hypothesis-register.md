@@ -5,7 +5,7 @@ Living file. H001–H008 from v0.1 seed; Session 01 updates 2026-06-29.
 | Field | Value |
 |-------|-------|
 | **Company slug** | `bridgit` |
-| **Last updated** | 2026-06-29 |
+| **Last updated** | 2026-06-29 (Session 02) |
 
 ## Index
 
@@ -22,6 +22,7 @@ Living file. H001–H008 from v0.1 seed; Session 01 updates 2026-06-29.
 | H008 | Data quality tooling grows with AI adoption | Medium-high | open |
 | H009 | Reporting artifacts are a high-value product gap | Medium-high | open |
 | H010 | Long-run risk is suite absorption, not only point solutions | Medium | open |
+| H011 | AI strongest as planning artifacts and decision workflows, not generic chat | Medium-high | open |
 
 ## Entries
 
@@ -120,6 +121,28 @@ Validate Procore partnership / competitive overlap in customer accounts.
 
 ---
 
+### H011 — AI opportunity is planning artifacts and decision workflows
+
+**Status:** open (Session 02)  
+**Confidence:** Medium-high
+
+**Hypothesis:** Bridgit's AI opportunity is strongest where it turns workforce data into recurring planning artifacts and decision workflows — not generic chat.
+
+#### Supporting Evidence
+
+| ID | What it supports |
+|----|------------------|
+| E005 | Ask Bridgit, Smart Suggestions |
+| E011 | Staffing meeting pain |
+| E022 | Reporting / narrative friction |
+| H009 | Reporting artifact gap |
+
+#### Validation Plan
+
+Analyze Bridgit "Building Agents" blog; validate with customer workflow research before prototype build.
+
+---
+
 *H002, H004, H006, H008: see v0.1 seed section 19.*
 
 ## Changelog
@@ -128,3 +151,4 @@ Validate Procore partnership / competitive overlap in customer accounts.
 |------|--------|
 | 2026-06-28 | Populated H001–H008 from v0.1 seed |
 | 2026-06-29 | Session 01: updated H001, H003→H003a/b, H005, H007; added H009, H010 |
+| 2026-06-29 | Session 02: added H011 |
